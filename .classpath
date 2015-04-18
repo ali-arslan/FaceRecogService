@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.USER_LIBRARY/webcam"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ali Arslan/OneDrive/Lums/Idea/webcam/libs/bridj-0.6.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ali Arslan/OneDrive/Lums/Idea/webcam/libs/slf4j-api-1.7.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/Ali Arslan/OneDrive/FaceRecognition/facepp-java-sdk-facepp-v3/FaceppSDK/output/faceppsdk.jar" sourcepath="C:/Users/Ali Arslan/OneDrive/FaceRecognition/facepp-java-sdk-facepp-v3/FaceppSDK/output/faceppsdk.jar"/>
+	<classpathentry kind="output" path="out/production/facerecogsample"/>
+</classpath>
